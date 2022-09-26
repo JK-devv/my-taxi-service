@@ -10,8 +10,7 @@ We have a driver (as a user) cars and manufacturers
 - create, delete, change the driver
 
 ## 🎯 Models
-
-![](../../Downloads/photo_2022-09-26 07.30.54.jpeg)
+![img_1.png](img_1.png)
 
 ## 👾 **Project structure:**
 - Database ( MySql )
